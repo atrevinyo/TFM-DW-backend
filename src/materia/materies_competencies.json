@@ -1,0 +1,1018 @@
+[
+    {
+
+        "nom": "Arts escèniques i dansa",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Analitzar produccions d’arts escèniques i dansa a través de la identificació d’elements i la reflexió per a entendre la seva evolució i funcions dins la cultura."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Expressar-se a través d’improvisacions escèniques i de moviment tenint en compte les emocions que provoquen per a desenvolupar la creativitat amb una actitud col·laborativa."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Interpretar a través de la veu i/o el cos per a explorar les possibilitats creatives, expressives i emocionals i desenvolupar l’autoestima."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Crear projectes escènics i de moviment a través de la veu, el cos, els objectes i l’espai escènic amb el suport de les eines tecnològiques per desenvolupar oportunitats personals, socials i professionals de forma inclusiva."
+            }
+        ]
+    },
+    {
+
+        "nom": "Biologia i Geologia",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Interpretar fenòmens de la naturalesa, predint i argumentant el seu comportament a partir de models, lleis i teories propis de la biologia i la geologia per apropiar-se de conceptes i processos propis de la ciència."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Identificar, seleccionar, organitzar i avaluar críticament dades i informació, contrastant-ne la fiabilitat per resoldre preguntes relacionades amb la biologia i la geologia i descartar solucions pseudocientífiques."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Dissenyar, desenvolupar i comunicar el plantejament i les conclusions de recerques dins de l’àmbit escolar, incloent la formulació de preguntes i d’hipòtesis i la seva contrastació experimental, seguint els passos de les metodologies pròpies de la ciència com l'experimentació i la cerca d'evidències, cooperant quan calgui, per indagar en aspectes relacionats amb la biologia i la geologia."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Fer servir diverses formes de raonament, com el pensament hipoteticodeductiu i el pensament computacional, per resoldre problemes o donar explicació a fenòmens naturals i processos de la vida quotidiana relacionats amb la biologia i la geologia, mitjançant l’anàlisi crítica de les respostes i solucions i reformulant el procediment, si fos necessari."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Analitzar els efectes de determinades accions sobre el medi ambient i la salut, basant-se en els fonaments de les ciències biològiques i geològiques, per fer propostes d’acció i per decidir de manera informada sobre problemàtiques actuals i adoptar hàbits que minimitzin els impactes mediambientals, que siguin compatibles amb un desenvolupament sostenible i que permetin mantenir i millorar la salut individual i col·lectiva."
+            },
+            {
+                "codi": "C6",
+                "nom": "C6",
+                "descripcio": "Analitzar els elements del paisatge, utilitzant de forma integrada els coneixements procedents de la biologia, geologia i ciències ambientals per explicar-ne l’origen i possible evolució així com les característiques de la comunitat d’organismes, la dinàmica del relleu i els possibles riscos naturals."
+            }
+        ]
+    },
+    {
+
+        "nom": "Ciències Socials: Geografia i Història",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Cercar i tractar informació que permeti interpretar el present i el passat, aplicant els procediments de la recerca històrica i geogràfica a partir de l’anàlisi crítica de dades procedents de fonts analògiques i digitals, per transformar-ho en coneixement i comunicar-ho a través de diferents formats."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Indagar i argumentar a partir de problemes socials rellevants, locals i globals, per desenvolupar un pensament crític i respectuós amb les diferències, que contribueixi a la construcció de la identitat individual i col·lectiva i a la consecució d’un present i un futur més just i inclusiu."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Interpretar els canvis i les continuïtats dels processos històrics, mitjançant la realització de projectes d'investigació i l'ús de fonts primàries i secundàries, per interpretar els problemes del món actual i fer propostes a favor de la pau, el benestar i el desenvolupament sostenible."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Descobrir i analitzar els elements i dinàmiques que configuren el territori, mitjançant l’estudi de casos i problemàtiques geogràfiques, per valorar els diferents paisatges i proposar alternatives de gestió territorial, amb criteris de sostenibilitat i justícia social."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Analitzar de forma crítica els mecanismes que han regulat la vida de les societats al llarg de la història fins a l’actualitat i la construcció dels sistemes democràtics per participar de manera respectuosa i compromesa en activitats comunitàries que promoguin la convivència, la cohesió social i l’equitat."
+            },
+            {
+                "codi": "C6",
+                "nom": "C6",
+                "descripcio": "Interpretar els processos que han conformat les societats actuals en la seva diversitat i riquesa a partir de l’anàlisi de perspectives i mirades diverses per formar-se un criteri propi fonamentat i comprometre’s en la defensa dels Drets Humans, la llibertat i la igualtat davant les situacions d’injustícia i discriminació."
+            },
+            {
+                "codi": "C7",
+                "nom": "C7",
+                "descripcio": "Identificar els fonaments que sostenen les identitats personals i col·lectives des d’una perspectiva intercultural, respectant els sentiments de pertinença, i valorar les diverses manifestacions culturals i artístiques i el patrimoni material i immaterial per contribuir a la cohesió social i als valors que emanen d’una ciutadania europea  responsable i solidària."
+            },
+            {
+                "codi": "C8",
+                "nom": "C8",
+                "descripcio": "Analitzar les formes de vida i els fets i fenòmens socials, passats i presents, des de la perspectiva de gènere, i comprometre’s en la igualtat  d’oportunitats, la participació efectiva i la responsabilitat compartida de totes les persones en la societat i l’entorn, superar estereotips i rebutjar qualsevol forma de discriminació i violència."
+            },
+            {
+                "codi": "C9",
+                "nom": "C9",
+                "descripcio": "Valorar críticament les dinàmiques d’interdependència entre diferents factors dins un món globalitzat i les desigualtats i conflictes que es generen, i relacionar les problemàtiques locals i globals per proposar alternatives basades en la cultura de la pau i adquirir compromisos que permetin la consecució d’un món més solidari i sostenible."
+            }
+        ]
+    },
+    {
+
+        "nom": "Competència ciutadana",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Analitza i comprèn idees relatives a la dimensió social i ciutadana de la seva pròpia identitat, així com als fets socials, històrics i normatius que la determinen, demostrant respecte per les normes, empatia, equitat i esperit constructiu en la interacció amb els altres en diferents contextos socioinstitucionals. "
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": " Analitza i assumeix amb fonament els principis i valors que emanen del procés d’integració europeu, de l’ordenament jurídic de l’Estat espanyol i de Catalunya i dels drets humans i de l’infant, participant en activitats comunitàries, com la presa de decisions o la resolució de conflictes, amb actitud democràtica, respecte per la diversitat, i compromís amb la igualtat de gènere, la cohesió social, el desenvolupament sostenible i l’assoliment de la ciutadania mundial. "
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Comprèn i analitza problemes ètics fonamentals i d’actualitat, considerant críticament els valors propis i aliens, i desenvolupant els seus propis judicis per afrontar la controvèrsia moral amb actitud dialogant, argumentativa, respectuosa i oposada a qualsevol tipus de discriminació o violència —incloent-hi la violència masclista, LGTBI-fòbica, racista o capacitista— o fonamentalisme ideològic. "
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Comprèn les relacions sistèmiques d’interdependència, ecodependència i interconnexió entre actuacions locals i globals i adopta, conscientment i motivadament, un estil de vida sostenible i ecosocialment responsable. "
+            }
+        ]
+    },
+    {
+
+        "nom": "Competència digital",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Fa cerques avançades a Internet atenent a criteris de validesa, qualitat, actualitat i fiabilitat, seleccionant-les de manera crítica i arxivant-les per recuperar, referenciar i reutilitzar aquestes recerques respecte a la propietat intel·lectual. "
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Gestiona i utilitza el seu propi entorn personal digital d’aprenentatge permanent per construir nou coneixement i crear continguts digitals, mitjançant estratègies de tractament de la informació i l’ús de diferents eines digitals, seleccionant i configurant la més adequada en funció de la tasca i de les seves necessitats en cada ocasió. "
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Participa, col·labora i interactua mitjançant eines i/o plataformes virtuals per comunicar-se, treballar col·laborativament i compartir continguts, dades i informació, gestionant de manera responsable les seves accions, presència i visibilitat a la xarxa i exercint una ciutadania digital activa, cívica i reflexiva. "
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Identifica riscos i adopta mesures en l'usar les tecnologies digitals per protegir els dispositius, les dades personals, la salut i el medi ambient i per prendre consciència de la importància i necessitat de fer un ús crític, legal, segur, saludable i sostenible d’aquestes tecnologies."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Desenvolupa aplicacions informàtiques senzilles i solucions tecnològiques creatives i sostenibles per resoldre problemes concrets o respondre a reptes proposats, i mostra interès i curiositat per l’evolució de les tecnologies digitals i pel seu desenvolupament sostenible i ús ètic. "
+            }
+        ]
+    },
+    {
+
+        "nom": "Competència emprenedora ",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Analitza necessitats i oportunitats i afronta reptes amb sentit crític, fent balanç de la seva sostenibilitat i valorant l’impacte que puguin suposar en l’entorn, per presentar idees i solucions innovadores, ètiques i sostenibles dirigides a crear valor en l’àmbit personal, social, cultural i econòmic. "
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Avalua les fortaleses i debilitats pròpies fent ús d’estratègies d’autoconeixement i autoeficàcia, comprèn els elements fonamentals de l’economia i les finances i aplica coneixements econòmics i financers a activitats i situacions concretes utilitzant habilitats que afavoreixin el treball col·laboratiu i en equip, per reunir i optimitzar els recursos necessaris que portin a l ’ acció una experiència emprenedora de valor."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Desenvolupa el procés de creació d’idees i solucions valuoses i pren decisions, de manera raonada, utilitzant estratègies àgils de planificació i gestió i reflexionant sobre el procés realitzat i el resultat obtingut, per dur a terme el procés de creació de prototips innovadors i de valor, considerant l’experiència com una oportunitat per aprendre. "
+            }
+        ]
+    },
+    {
+
+        "nom": "Competència personal, social i d’aprendre a aprendre",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Regula i expressa les seves emocions enfortint l’optimisme, la resiliència, l’autoeficàcia i la recerca de propòsit i motivació cap a l’aprenentatge per gestionar els reptes i canvis i harmonitzar-los amb els seus propis objectius. "
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Coneix els riscos per a la salut relacionats amb factors socials, per consolidar hàbits de vida saludable en el terreny físic i mental."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Comprèn proactivament les perspectives i les experiències dels altres i les incorpora al seu aprenentatge per participar en el treball en grup distribuint i acceptant tasques i responsabilitats de manera equitativa i emprant estratègies cooperatives."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Fa autoavaluacions sobre el seu procés d’aprenentatge, buscant fonts fiables per validar, sustentar i contrastar la informació i per obtenir conclusions rellevants."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Planifica objectius a mitjà termini i desenvolupa processos metacognitius de retroalimentació per aprendre dels seus errors en el procés de construcció de coneixement. "
+            }
+        ]
+    },
+    {
+
+        "nom": "Cultura Clàssica",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Analitzar i diferenciar els diferents models d’organització política, social, econòmica i territorial del període grecoromà amb el moment històric present per ser conscient de les arrels clàssiques del món actual."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Analitzar i avaluar críticament les cosmovisions que contenen les manifestacions culturals grecoromanes amb l’objectiu d’establir vincles amb les manifestacions cultural actuals, fent ús d’eines digitals per a la cerca i el tractament de la informació."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Valorar i argumentar el patrimoni cultural grecoromà com a herència rebuda del passat, per defensar-ne la conservació."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Percebre i valorar com a llengües originàries la llengua grega i la llengua llatina i conèixer els principals autors i autores de la seva literatura, per ser conscient de l’estreta dependència de les llengües i literatures actuals respecte dels seus referents grecoromans."
+            }
+        ]
+    },
+    {
+
+        "nom": "Digitalització",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Gestionar les eines i dispositius informàtics i de comunicació d’ús quotidià aplicant els coneixements de maquinari i sistemes operatius per resoldre problemes tècnics senzills."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Idear solucions innovadores i creatives aplicant diferents formes de raonament, integrant-les en l’entorn personal d’aprenentatge tot fent ús de les eines i els recursos d'edició, la creació de continguts digitals i el desenvolupament d'aplicacions per optimitzar l'aprenentatge permanent."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Identificar riscos i amenaces i aplicar mesures preventives i correctives, adquirint hàbits que fomentin el benestar digital per protegir dispositius, dades personals i la pròpia salut."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Fer un ús actiu, responsable i ètic de les tecnologies digitals, valorant les possibles accions que cal fer a la xarxa i identificar-ne les repercussions per exercir una ciutadania digital crítica."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Analitzar l’impacte de les tecnologies digitals a la societat, a partir de la identificació dels canvis econòmics i socials a escala global, i aplicar les tecnologies emergents pel disseny de solucions a problemes reals tenint en compte els objectius de desenvolupament sostenible."
+            }
+        ]
+    },
+    {
+
+        "nom": "Economia Bàsica",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Reconèixer els rols individuals i col·lectius de les persones dintre del sistema econòmic i constituir dinàmiques de participació ciutadana, prenent consciència de la interdependència dels factors econòmics, per valorar les desigualtats en l’accés als recursos i la distribució de la riquesa."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Integrar i promoure pràctiques econòmiques basades en valors humans, solidaris i sostenibles, amb consciència ciutadana, per contribuir a una societat més equitativa, justa i sostenible en un món global i divers."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Analitzar i contrastar informació de diferents fonts i suports, a través de mètodes de recerca, amb rigor i sentit crític, per suggerir mesures econòmiques que millorin l’entorn social i el medi ambient."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Reconèixer el funcionament bàsic del sistema financer i els instruments de política fiscal del sector públic, coneixent les fonts financeres i aplicant la tria d'aquestes per prendre decisions sobre estalvi i inversió, i per regular l’activitat econòmica amb criteris ètics i de sostenibilitat."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Dissenyar un pla financer personal i/o familiar, aplicant estratègies de planificació i presa de decisions, avaluant la seva coherència i consistència al llarg del temps, per donar resposta a les necessitats vitals presents i futures, i millorar la qualitat de vida."
+            }
+        ]
+    },
+    {
+
+        "nom": "Educació Visual Plàstica i Audiovisual 1r a 3r Expressió Artística 4t",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Descobrir manifestacions artístiques contemporànies i del patrimoni cultural, interessant-se per la realitat patrimonial com a part de la pròpia cultura, per reconèixer-les com a testimoni del pensament i com a font d’aprenentatge, prenent consciència de la necessitat de la seva conservació."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Analitzar produccions artístiques, pròpies i alienes, argumentant opinions amb respecte i sentit crític, per construir una cultura artística àmplia, gaudir i generar nous coneixements."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Representar idees, formes i emocions, utilitzant els llenguatges, les tècniques i els mitjans propis de l’àmbit, a través de processos analítics i creatius, per desenvolupar la imaginació, la comunicació i l’autoconfiança."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Connectar idees i coneixements, aplicant-los, donant nous sentits, en projectes artístics de contextos diversos per fomentar una mirada creativa multidimensional."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Explorar tècniques, mitjans i recursos dels llenguatges artístics, a través de l’experimentació i la recerca, amb perseverança i entenent l’error una oportunitat per aprendre, per aplicar-los en el disseny i la realització d’un projecte artístic."
+            },
+            {
+                "codi": "C6",
+                "nom": "C6",
+                "descripcio": "Realitzar projectes, disciplinaris o transdisciplinaris, personals o col·lectius, a partir de situacions i establint connexions amb la realitat propera, amb implicació i compromís, per comunicar, reflexionar i resoldre problemes."
+            }
+        ]
+    },
+    {
+
+        "nom": "Educació en valors cívics i ètics",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Indagar i analitzar aspectes vinculats a la construcció de la pròpia identitat i a les qüestions ètiques relatives al projecte vital, en un context social, analitzant de forma reflexiva i crítica la informació obtinguda, per promoure l’autoconeixement i la resolució de dilemes morals de forma autònoma i raonada."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Integrar de forma crítica normes i valors cívics i ètics i actuar i interactuar, a partir del reconeixement de la seva importància en la regulació de la vida individual i comunitària, per aplicar-los de forma efectiva i justificada en diferents contextos i per promoure una convivència pacífica, respectuosa, democràtica i compromesa amb el bé comú i una societat inclusiva."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Integrar i avaluar les relacions sistèmiques entre l’individu, la societat i la natura i l’ecodependència de les activitats humanes, mitjançant la identificació i l’anàlisi de problemes ecosocials de rellevància, per desenvolupar hàbits i actituds èticament compromeses amb l’assoliment d’un estil de vida sostenible."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Desenvolupar i mostrar una adequada estima de si mateix i de l'entorn, reconeixent i valorant les emocions i els sentiments propis i aliens, per a l'assoliment d'una actitud empàtica, respectuosa i acurada envers un mateix, els altres i la natura."
+            }
+        ]
+    },
+    {
+
+        "nom": "Educació física",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Adquirir un estil de vida actiu i saludable incorporant la pràctica d’activitats físiques i hàbits beneficiosos per a la contribució del benestar físic, mental i social."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Aplicar la tècnica, tàctica i estratègia vinculades amb els jocs i els esports per a la resolució de situacions motrius."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Utilitzar els recursos expressius com a mitjà de relació, comunicació i integració social per a l'autoconeixement."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Planificar activitats físiques a l’entorn de manera sostenible i segura per a l'ocupació i gaudi del temps de lleure."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Adquirir actituds, valors i habilitats socials en la pràctica d'activitat física i esportiva per a la millora de la convivència i la cohesió social."
+            }
+        ]
+    },
+    {
+
+        "nom": "Emprenedoria (1r, 2n i 3r ESO)",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Analitzar i valorar aptituds, reconeixent les fortaleses i debilitats pròpies i dels altres, gestionant de forma eficaç les emocions i destreses necessàries per promoure una actitud vital emprenedora davant entorns incerts, canviants i globalitzats, amb la creació d’un projecte personal que generi valor per als altres."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Col·laborar eficaçment amb altres persones i constituir dinàmiques de treball en diferents contextos, utilitzant estratègies de formació d’equips des del diàleg, l’equitat, el respecte a la diversitat i la inclusió per desenvolupar idees emprenedores."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Promoure actuacions locals i globals compromeses amb la societat i l’entorn, amb visió creativa, emprenedora i compromesa per contribuir al desenvolupament sostenible."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Analitzar i contrastar informació de diferents fonts i suports, a través de mètodes de recerca, amb rigor i sentit crític, per detectar necessitats i oportunitats en un món global i divers."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Seleccionar els recursos disponibles en el procés de disseny de les idees o solucions emprenedores, creatives i sostenibles, utilitzant metodologies àgils i actives d’ideació amb sentit ètic i solidari, per donar una resposta sostenible a les necessitats i demandes de la societat."
+            }
+        ]
+    },
+    {
+
+        "nom": "Emprenedoria (4t d’ESO)",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Analitzar i valorar aptituds, reconeixent les fortaleses i debilitats pròpies i dels altres, gestionant de forma eficaç les emocions i destreses necessàries per promoure una actitud vital emprenedora davant entorns incerts, canviants i globalitzats, amb la creació d’un projecte personal que generi valor pels altres."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Col·laborar eficaçment amb altres persones i constituir dinàmiques de treball en diferents contextos, utilitzant estratègies de formació d’equips des del diàleg, l’equitat, el respecte a la diversitat i la inclusió per desenvolupar idees emprenedores."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Promoure actuacions locals i globals compromeses amb la societat i l’entorn, amb visió creativa, emprenedora i compromesa per contribuir al desenvolupament sostenible."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Analitzar i contrastar informació de diferents fonts i suports, a través de mètodes de recerca, amb rigor i sentit crític, per detectar necessitats i oportunitats en un món global i divers."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Dissenyar solucions emprenedores, creatives i sostenibles, utilitzant metodologies àgils i actives d’ideació amb sentit ètic i solidari, per donar resposta sostenible a les necessitats i demandes de la societat."
+            },
+            {
+                "codi": "C6",
+                "nom": "C6",
+                "descripcio": "Seleccionar els recursos disponibles durant el procés de desenvolupament de la idea o solució creativa, coneixent els mitjans de producció i les fonts financeres, aplicant estratègies de tria dels mateixos per posar en marxa el projecte."
+            },
+            {
+                "codi": "C7",
+                "nom": "C7",
+                "descripcio": "Comunicar-se de manera efectiva i respectuosa, amb l’ús d’estratègies comunicatives diverses, tenint en compte el context i la situació per presentar, exposar i validar una idea o solució emprenedora."
+            },
+            {
+                "codi": "C8",
+                "nom": "C8",
+                "descripcio": "Valorar críticament els aspectes bàsics de l’economia i les finances en relació amb el problema de l’escassetat i la necessitat de triar, així com la interacció entre els agents econòmics, de manera eficaç, equitativa i sostenible per afrontar els reptes plantejats."
+            },
+            {
+                "codi": "C9",
+                "nom": "C9",
+                "descripcio": "Dissenyar prototips innovadors, aplicant estratègies de planificació, gestió i presa de decisions, de manera cooperativa i autònoma per resoldre els reptes proposats i reflexionar sobre el procés i el resultat obtingut."
+            },
+            {
+                "codi": "C10",
+                "nom": "C10",
+                "descripcio": "Analitzar la viabilitat i sostenibilitat dels prototips creats, avaluant les fases del procés d’elaboració, de manera crítica i ètica, considerant l'experiència com una oportunitat per a la millora d’aquests, i per a l'aprenentatge."
+            }
+        ]
+    },
+    {
+
+        "nom": "Filosofia",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Identificar i valorar l’especificitat del saber filosòfic i dels sabers que aporten certesa enfront d’altres tipus de saber, per tal d'avaluar críticament els discursos i arguments."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Avaluar i generar arguments per a valorar i produir discursos orals i escrits de forma rigorosa, evitar dogmatismes, biaixos i fal·làcies per tal de desenvolupar i sostenir opinions."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Reconèixer i aplicar les normes de l’argumentació i del diàleg filosòfic, en diferents suports i activitats, per expressar-se amb rigor argumentatiu i desenvolupar el diàleg respectuós i constructiu amb els altres i poder arribar a idees comunes."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Avaluar de manera global, sistèmica i transdisciplinària els problemes ètics i polítics fonamentals i d’actualitat analitzant-los filosòficament per a poder tractar-les de manera creativa i prendre una posició."
+            }
+        ]
+    },
+    {
+
+        "nom": "Formació i orientació personal i professional",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Integrar els processos físics i psicològics implicats en la cognició, la motivació, i l'aprenentatge, analitzant les seves implicacions en la conducta per desenvolupar estratègies de gestió emocional i d’autoaprenentatge en els àmbits personal, social i acadèmic."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Identificar les principals característiques del desenvolupament evolutiu de la persona, analitzant els elements que condicionen la conducta i potenciant les qualitats personals i de relació social pròpies i dels altres, per afrontar de forma autònoma i eficaç els reptes de l’itinerari vital."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Reflexionar sobre l’ésser humà, des de diferents perspectives, psicològica, antropològica y social, mostrant els trets diferencials de forma respectuosa i empàtica per tal de fomentar l’esperit crític envers els altres i l’entorn i promoure el compromís d’un desenvolupament sostenible en la societat."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Integrar la dimensió social i antropològica de l’ésser humà, considerant els factors personals i socioculturals que intervenen en la configuració psicològica de la persona, per desenvolupar, de forma inclusiva, les estratègies i habilitats socials necessàries en l’adaptació als canvis de la societat."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Descobrir les pròpies competències i interessos professionals, així com les oportunitats acadèmiques i professionals de l’entorn, desenvolupant actituds d’autosuperació, adaptabilitat i iniciativa, i les destreses necessàries per a una presa de decisions ajustada al projecte vital, acadèmic i professional."
+            }
+        ]
+    },
+    {
+
+        "nom": "Física i química",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Interpretar fenòmens de la naturalesa, predient i argumentant el seu comportament a partir de models, lleis i teories propis de la física i química per apropiar-se de conceptes i processos propis de la ciència."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Dissenyar, desenvolupar i comunicar el plantejament i les conclusions de recerques incloent la formulació de preguntes i d’hipòtesis i la seva contrastació experimental, dins de l’àmbit escolar, seguint els passos de les metodologies pròpies de la ciència com l'experimentació i la cerca d'evidències, i del pensament computacional cooperant quan calgui, per indagar en aspectes relacionats amb la física i la química."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Generar, interpretar i validar dades i informació en diferents formats i fonts, fent servir de manera adient el llenguatge científic específic de la física i la química, i usar de manera responsable i segura el material de laboratori, per valorar el llenguatge científic com a eina universal de comunicació i intercanvi de coneixement."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Utilitzar de forma crítica i eficient plataformes tecnològiques i recursos variats, tant pel treball individual com en equip, per a la cerca d'informació, la creació de materials i la comunicació fonamentada en coneixements de la física i la química, entorn de fenòmens i qüestions ecosocialment rellevants."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Analitzar els efectes de determinades accions sobre el medi ambient i la salut, basant-se en els fonaments de les ciències físiques i químiques, per fer propostes d’acció per decidir de manera informada en problemàtiques actuals i adoptar hàbits que minimitzin els impactes mediambientals, que siguin compatibles amb un desenvolupament sostenible i que permetin mantenir i millorar la salut individual i col·lectiva."
+            },
+            {
+                "codi": "C6",
+                "nom": "C6",
+                "descripcio": "Interpretar i valorar la ciència com una construcció col·lectiva en continu canvi i evolució, que requereix la interacció amb la resta de la societat per generar millores que repercuteixin en l'avenç tecnològic, econòmic, ambiental i social."
+            }
+        ]
+    },
+    {
+
+        "nom": "Llatí: Llengua i cultura",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Valorar i argumentar el paper de la civilització llatina en l'origen de la identitat catalana i europea en general a partir del reconeixement de les semblances i diferències entre llengües i cultures, per combatre els estereotips i prejudicis lingüístics i culturals i valorar aquesta diversitat com a font de riquesa cultural."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Analitzar i percebre els aspectes bàsics de la llengua llatina, comparant-la amb la llengua d'ensenyament i amb altres llengües del repertori individual de l'alumnat, per valorar els trets comuns i la diversitat lingüística."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Interpretar i valorar, amb sentit crític i diferents propòsits de lectura, textos llatins, reconeixent el sentit global i les idees principals i secundàries, assumint l'aproximació als textos com un procés dinàmic i prenent consciència dels coneixements i experiències pròpies, per identificar el seu caràcter clàssic i fonamental."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Interpretar i crear produccions llatines (escrites o orals) de tipologia diversa i estructura morfosintàctica senzilla, aplicant estratègies de planificació, redacció, revisió, correcció i edició i mobilitzant el coneixement sobre l’estructura de la llengua per promoure una capacitat àgil de raonament i aprenentatge."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Analitzar i valorar el patrimoni cultural, arqueològic i artístic romà, apreciant-lo i reconeixent-lo com a manifestació de la creació humana i com a testimoni de la història, per identificar les fonts d'inspiració i distingir els processos de construcció, preservació, conservació i restauració, i garantir-ne la sostenibilitat."
+            }
+        ]
+    },
+    {
+
+        "nom": "Llengua Castellana i Literatura",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Descriure i valorar la diversitat lingüística i cultural a partir del reconeixement de les llengües de l'alumnat i la realitat plurilingüe i pluricultural, per afavorir la transferència lingüística, identificar i rebutjar estereotips i prejudicis lingüístics, i valorar aquesta diversitat com a font de riquesa cultural."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Comprendre i interpretar textos orals i multimodals recollint el sentit general i la informació més rellevant, la seva forma i el seu contingut, per construir coneixement, formar-se opinió i eixamplar les possibilitats de gaudi i lleure."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Produir textos orals i multimodals amb coherència, claredat i registre adequats, atenent les convencions pròpies dels diferents gèneres discursius i participar en interaccions orals variades, amb autonomia, per expressar idees, sentiments i conceptes, construir coneixement i establir vincles personals."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Comprendre, interpretar i analitzar, amb sentit crític i diferents propòsits de lectura, textos escrits i multimodals reconeixent el sentit global i les idees principals i secundàries, identificant la intenció de l'emissor, reflexionant sobre el contingut i la forma i avaluar-ne la qualitat i fiabilitat, per tal de construir coneixement i donar resposta a necessitats i interessos comunicatius diversos."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Produir textos escrits i multimodals amb adequació, coherència, cohesió, aplicant estratègies elementals de planificació, redacció, revisió, correcció i edició, amb regulació dels iguals i autoregulació progressivament autònoma i atenent les convencions pròpies del gènere discursiu triat, per construir coneixement i donar resposta de manera informada, eficaç i creativa a demandes comunicatives concretes."
+            },
+            {
+                "codi": "C6",
+                "nom": "C6",
+                "descripcio": "Cercar, seleccionar i contrastar informació procedent de diferents fonts de manera progressivament autònoma, avaluant la seva fiabilitat i pertinència en funció dels objectius de lectura i evitant els riscos de manipulació i desinformació, i integrar-la i transformar-la en coneixement, per comunicar-la, adoptant un punt de vista crític, personal i respectuós amb la propietat intel·lectual."
+            },
+            {
+                "codi": "C7",
+                "nom": "C7",
+                "descripcio": "Seleccionar i llegir de manera autònoma obres diverses com a font de plaer i coneixement, configurant un itinerari lector que s'enriqueixi progressivament pel que fa a diversitat, complexitat i qualitat de les obres, i compartir experiències de lectura, per construir la pròpia identitat lectora i gaudir de la dimensió social de la lectura."
+            },
+            {
+                "codi": "C8",
+                "nom": "C8",
+                "descripcio": "Llegir, interpretar i valorar obres o fragments literaris del patrimoni propi i universal, utilitzant un metallenguatge específic i mobilitzant l'experiència biogràfica i els coneixements literaris i culturals, per establir vincles entre textos diversos que permetin conformar un mapa cultural, eixamplar les possibilitats de gaudir de la literatura i crear textos d’intenció literària."
+            },
+            {
+                "codi": "C9",
+                "nom": "C9",
+                "descripcio": "Mobilitzar el coneixement sobre l'estructura de la llengua i els seus usos i reflexionar de manera progressivament autònoma sobre les eleccions lingüístiques i discursives, amb la terminologia adequada, per desenvolupar la consciència lingüística, augmentar el repertori comunicatiu i millorar les destreses tant de producció oral i escrita com de recepció crítica."
+            },
+            {
+                "codi": "C10",
+                "nom": "C10",
+                "descripcio": "Posar al servei de la convivència democràtica, la resolució dialogada dels conflictes i la igualtat de drets de totes les persones, les pròpies pràctiques comunicatives, utilitzant un llenguatge no discriminatori i desterrant els abusos de poder a través de la paraula, per afavorir un ús eficaç, ètic i democràtic del llenguatge."
+            }
+        ]
+    },
+    {
+
+        "nom": "Llengua Catalana i Literatura",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Descriure i valorar la diversitat lingüística i cultural a partir del reconeixement de les llengües de l'alumnat i la realitat plurilingüe i pluricultural, per afavorir la transferència lingüística, identificar i rebutjar estereotips i prejudicis lingüístics, i valorar aquesta diversitat com a font de riquesa cultural."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Comprendre i interpretar textos orals i multimodals recollint el sentit general i la informació més rellevant, la seva forma i el seu contingut, per construir coneixement, formar-se opinió i eixamplar les possibilitats de gaudi i lleure."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Produir textos orals i multimodals amb coherència, claredat i registre adequats, atenent les convencions pròpies dels diferents gèneres discursius i participar en interaccions orals variades, amb autonomia, per expressar idees, sentiments i conceptes, construir coneixement i establir vincles personals."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Comprendre, interpretar i analitzar, amb sentit crític i diferents propòsits de lectura, textos escrits i multimodals reconeixent el sentit global i les idees principals i secundàries, identificant la intenció de l'emissor, reflexionant sobre el contingut i la forma i avaluar-ne la qualitat i fiabilitat, per tal de construir coneixement i donar resposta a necessitats i interessos comunicatius diversos."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Produir textos escrits i multimodals amb adequació, coherència, cohesió, aplicant estratègies elementals de planificació, redacció, revisió, correcció i edició, amb regulació dels iguals i autoregulació progressivament autònoma i atenent les convencions pròpies del gènere discursiu triat, per construir coneixement i donar resposta de manera informada, eficaç i creativa a demandes comunicatives concretes."
+            },
+            {
+                "codi": "C6",
+                "nom": "C6",
+                "descripcio": "Cercar, seleccionar i contrastar informació procedent de diferents fonts de manera progressivament autònoma, avaluant la seva fiabilitat i pertinència en funció dels objectius de lectura i evitant els riscos de manipulació i desinformació, i integrar-la i transformar-la en coneixement, per comunicar-la, adoptant un punt de vista crític, personal i respectuós amb la propietat intel·lectual."
+            },
+            {
+                "codi": "C7",
+                "nom": "C7",
+                "descripcio": "Seleccionar i llegir de manera autònoma obres diverses com a font de plaer i coneixement, configurant un itinerari lector que s'enriqueixi progressivament pel que fa a diversitat, complexitat i qualitat de les obres, i compartir experiències de lectura, per construir la pròpia identitat lectora i gaudir de la dimensió social de la lectura."
+            },
+            {
+                "codi": "C8",
+                "nom": "C8",
+                "descripcio": "Llegir, interpretar i valorar obres o fragments literaris del patrimoni propi i universal, utilitzant un metallenguatge específic i mobilitzant l'experiència biogràfica i els coneixements literaris i culturals, per establir vincles entre textos diversos que permetin conformar un mapa cultural, eixamplar les possibilitats de gaudir de la literatura i crear textos d’intenció literària."
+            },
+            {
+                "codi": "C9",
+                "nom": "C9",
+                "descripcio": "Mobilitzar el coneixement sobre l'estructura de la llengua i els seus usos i reflexionar de manera progressivament autònoma sobre les eleccions lingüístiques i discursives, amb la terminologia adequada, per desenvolupar la consciència lingüística, augmentar el repertori comunicatiu i millorar les destreses tant de producció oral i escrita com de recepció crítica."
+            },
+            {
+                "codi": "C10",
+                "nom": "C10",
+                "descripcio": "Posar al servei de la convivència democràtica, la resolució dialogada dels conflictes i la igualtat de drets de totes les persones, les pròpies pràctiques comunicatives, utilitzant un llenguatge no discriminatori i desterrant els abusos de poder a través de la paraula, per afavorir un ús eficaç, ètic i democràtic del llenguatge."
+            }
+        ]
+    },
+    {
+
+        "nom": "Llengua Estrangera",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Descriure i valorar la diversitat lingüística i cultural a partir del reconeixement de les llengües de l'alumnat i la realitat plurilingüe, pluricultural i intercultural, per afavorir la transferència lingüística, identificar i rebutjar estereotips i prejudicis lingüístics i valorar aquesta diversitat com a font de riquesa cultural."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Comprendre i interpretar textos orals i multimodals, en la llengua estàndard, recollint el sentit general i la informació més rellevant, la seva forma i el seu contingut, per construir coneixement, formar-se opinió i eixamplar les possibilitats de gaudi i lleure."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Produir textos orals i multimodals amb coherència, claredat i registre adequats, atenent les convencions pròpies dels diferents gèneres discursius, i participar en interaccions orals variades, amb autonomia, per expressar idees, sentiments i conceptes, construir coneixement i establir vincles personals."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Comprendre, interpretar i analitzar, amb sentit crític i diferents propòsits de lectura, textos escrits i multimodals reconeixent el sentit global i les idees principals i secundàries, identificant la intenció de l'emissor, reflexionant sobre el contingut i la forma i avaluant-ne la qualitat i fiabilitat, per tal de construir coneixement i donar resposta a necessitats i interessos comunicatius diversos."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Produir textos escrits i multimodals amb adequació, coherència i cohesió, aplicant estratègies elementals de planificació, redacció, revisió, correcció i edició, amb regulació dels iguals i autoregulació progressivament autònoma, i atenent les convencions pròpies del gènere discursiu triat, per construir coneixement i donar resposta de manera informada, eficaç i creativa a demandes comunicatives concretes."
+            },
+            {
+                "codi": "C6",
+                "nom": "C6",
+                "descripcio": "Cercar, seleccionar i contrastar informació procedent de diferents fonts de manera progressivament autònoma, avaluant la seva fiabilitat i pertinència en funció dels objectius de lectura i evitant els riscos de manipulació i desinformació, i integrar-la i transformar-la en coneixement, per comunicar-la, adoptant un punt de vista crític, personal i respectuós amb la propietat intel·lectual."
+            },
+            {
+                "codi": "C7",
+                "nom": "C7",
+                "descripcio": "Seleccionar i llegir de manera autònoma obres diverses com a font de plaer i coneixement, configurant un itinerari lector que s'enriqueixi progressivament pel que fa a diversitat, complexitat i qualitat de les obres, i compartir experiències de lectura per construir la pròpia identitat lectora i gaudir de la dimensió social de la lectura."
+            },
+            {
+                "codi": "C8",
+                "nom": "C8",
+                "descripcio": "Mediar entre diferents llengües, fent servir estratègies i coneixements senzills orientats a explicar conceptes o simplificar missatges, per transmetre informació de manera eficaç, clara i responsable."
+            },
+            {
+                "codi": "C9",
+                "nom": "C9",
+                "descripcio": "Ampliar i usar els repertoris lingüístics personals entre diferents llengües, reflexionant de manera crítica sobre el seu funcionament i prenent consciència de les estratègies i coneixements propis, per millorar la resposta a necessitats comunicatives concretes."
+            },
+            {
+                "codi": "C10",
+                "nom": "C10",
+                "descripcio": "Posar al servei de la convivència democràtica, la resolució dialogada dels conflictes i la igualtat de drets de totes les persones, les pròpies pràctiques comunicatives, utilitzant un llenguatge no discriminatori i desterrant els abusos de poder a través de la paraula, per afavorir un ús eficaç, ètic i democràtic del llenguatge."
+            }
+        ]
+    },
+    {
+
+        "nom": "Matemàtiques",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Interpretar, modelitzar i resoldre situacions de la vida quotidiana, pròpies de les matemàtiques i d’altres àmbits del coneixement aplicant diferents estratègies i formes de raonament per explorar procediments, obtenir solucions."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Argumentar la idoneïtat de les solucions d’un problema, avaluant les respostes obtingudes a través del raonament i la lògica matemàtica, per verificar la seva validesa i generar noves preguntes i reptes."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Formular conjectures senzilles o problemes, utilitzant el raonament i l’argumentació, la creativitat i les eines tecnològiques, per integrar i generar nou coneixement matemàtic."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Utilitzar el pensament computacional, organitzant dades, descomponent en parts, reconeixement patrons, interpretant, modificant, generalitzant i creant algoritmes per modelitzar situacions i resoldre problemes de forma eficient."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Connectar diferents elements matemàtics relacionant conceptes, procediments, arguments i models per desenvolupar una visió de les matemàtiques com un tot integrat."
+            },
+            {
+                "codi": "C6",
+                "nom": "C6",
+                "descripcio": "Vincular i contextualitzar les matemàtiques amb altres àrees de coneixement, interrelacionant conceptes i procediments, per resoldre problemes i desenvolupar la capacitat crítica, creativa i innovadora en situacions diverses."
+            },
+            {
+                "codi": "C7",
+                "nom": "C7",
+                "descripcio": "Comunicar i representar, de forma individual i col·lectiva, conceptes, procediments i resultats matemàtics usant el llenguatge oral, escrit, gràfic, multimodal i la terminologia matemàtica apropiada, per donar significat i permanència a les idees matemàtiques."
+            },
+            {
+                "codi": "C8",
+                "nom": "C8",
+                "descripcio": "Desenvolupar destreses personals, com l’autoregulació, que ajudin a identificar i gestionar emocions, aprenent de l'error i afrontant les situacions d'incertesa com una oportunitat, per perseverar i gaudir del procés d’aprendre matemàtiques."
+            },
+            {
+                "codi": "C9",
+                "nom": "C9",
+                "descripcio": "Desenvolupar destreses socials, com la cooperació, participant activament en equips de treball inclusius reconeixent la diversitat i el valor de les aportacions dels altres, per compartir i construir coneixement de matemàtic de manera col·lectiva."
+            }
+        ]
+    },
+    {
+
+        "nom": "Música",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Analitzar produccions musicals a través de l’escolta activa, la identificació d’elements i la reflexió per a entendre la seva evolució i funcions dins la cultura."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Expressar-se musicalment a través d’improvisacions vocals o instrumentals tenint en compte les emocions que provoquen i per a desenvolupar la creativitat amb una actitud col·laborativa."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Interpretar a través de la veu, els instruments i la dansa per a explorar les possibilitats creatives, expressives i emocionals i desenvolupar l’autoestima"
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Crear projectes musicals a través de la veu, els instruments i el cos amb el suport de les eines tecnològiques per desenvolupar oportunitats personals, socials i professionals de forma inclusiva."
+            }
+        ]
+    },
+    {
+        "nom": "Robòtica i programació",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Dissenyar prototips creatius i funcionals per respondre a problemes i reptes concrets a partir de projectes col·laboratius, utilitzant tècniques de pensament de disseny"
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Aplicar estratègies de pensament computacional de manera organitzada i òptima per crear, reelaborar o millorar algoritmes que ajudin a resoldre problemes reals"
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Configurar i programar plaques de prototipatge programables i sensors i actuadors que permetin donar resposta als reptes o problemes, fent servir estructures lògiques a partir de llenguatges de programació."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Construir estructures i mecanismes per respondre als requeriments mecànics necessaris, a partir de components específics o dissenyats i produïts mitjançant la utilització d’eines de disseny digital"
+            }
+        ]
+    },
+    {
+        "nom": "Segona Llengua Estrangera",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Descriure i valorar la diversitat lingüística i cultural a partir del reconeixement de les llengües de l'alumnat i la realitat plurilingüe, pluricultural i intercultural, per afavorir la transferència lingüística, identificar i rebutjar estereotips i prejudicis lingüístics i valorar aquesta diversitat com a font de riquesa cultural."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Comprendre i interpretar textos orals i multimodals, en la llengua estàndard, recollint el sentit general i la informació més rellevant, la seva forma i el seu contingut, per construir coneixement, formar-se opinió i eixamplar les possibilitats de gaudi i lleure."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Produir textos orals i multimodals amb coherència, claredat i registre adequats, atenent les convencions pròpies dels diferents gèneres discursius, i participar en interaccions orals variades, amb autonomia, per expressar idees, sentiments i conceptes, construir coneixement i establir vincles personals."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Comprendre i interpretar textos escrits i multimodals, reconeixent el sentit global, les idees principals i la informació implícita i explícita, i realitzant, de manera progressivament autònoma, reflexions elementals sobre aspectes formals i de contingut, per adquirir i construir coneixement, i respondre a necessitats i interessos comunicatius diversos."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Produir textos escrits i multimodals amb adequació, coherència i cohesió, aplicant estratègies elementals de planificació, redacció, revisió, correcció i edició, amb regulació dels iguals i autoregulació progressivament autònoma, i atenent les convencions pròpies del gènere discursiu triat, per construir coneixement i donar resposta de manera informada, eficaç i creativa a demandes comunicatives concretes."
+            },
+            {
+                "codi": "C6",
+                "nom": "C6",
+                "descripcio": "Cercar, seleccionar i contrastar informació procedent de diferents fonts de manera progressivament autònoma, avaluant la seva fiabilitat i pertinència en funció dels objectius de lectura i evitant els riscos de manipulació i desinformació, i integrar-la i transformar-la en coneixement, per comunicar-la, adoptant un punt de vista crític, personal i respectuós amb la propietat intel·lectual."
+            },
+            {
+                "codi": "C7",
+                "nom": "C7",
+                "descripcio": "Seleccionar i llegir de manera autònoma obres diverses com a font de plaer i coneixement, configurant un itinerari lector que s'enriqueixi progressivament pel que fa a diversitat, complexitat i qualitat de les obres, i compartir experiències de lectura per construir la pròpia identitat lectora i gaudir de la dimensió social de la lectura."
+            },
+            {
+                "codi": "C8",
+                "nom": "C8",
+                "descripcio": "Mediar entre diferents llengües, fent servir estratègies i coneixements senzills orientats a explicar conceptes o simplificar missatges, per transmetre informació de manera eficaç, clara i responsable."
+            },
+            {
+                "codi": "C9",
+                "nom": "C9",
+                "descripcio": "Ampliar i usar els repertoris lingüístics personals entre diferents llengües, reflexionant de manera crítica sobre el seu funcionament i prenent consciència de les estratègies i coneixements propis, per millorar la resposta a necessitats comunicatives concretes."
+            },
+            {
+                "codi": "C10",
+                "nom": "C10",
+                "descripcio": "Posar al servei de la convivència democràtica, la resolució dialogada dels conflictes i la igualtat de drets de totes les persones, les pròpies pràctiques comunicatives, utilitzant un llenguatge no discriminatori i desterrant els abusos de poder a través de la paraula per afavorir un ús no només eficaç sinó també ètic i democràtic del llenguatge."
+            }
+        ]
+    },
+    {
+
+        "nom": "Tecnologia",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Identificar i proposar problemes tecnològics amb iniciativa i creativitat, tot estudiant les necessitats de l’entorn proper, aplicant estratègies i processos col·laboratius i iteratius relatius a projectes, per idear i planificar solucions de manera eficient i innovadora."
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Aplicar diferents tècniques i coneixements interdisciplinaris utilitzant procediments i recursos tecnològics tot preveient el cicle de vida dels productes per construir solucions tecnològiques sostenibles que donin resposta a necessitats plantejades."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Comunicar, argumentar i difondre idees i solucions tecnològiques en diferents espais virtuals, emprant diversos recursos tot aplicant els elements i les tècniques necessàries per intercanviar la informació i fomentar el treball en equip"
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Desenvolupar solucions sostenibles a problemes plantejats que incorporin l’automatització i les tecnologies emergents, per dissenyar i construir sistemes de control programables i robòtics"
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Emprar les eines digitals de disseny i fabricació, adaptant-les i configurant-les a les necessitats tot aplicant els coneixements interdisciplinaris, per a una producció més eficient i sostenible"
+            },
+            {
+                "codi": "C6",
+                "nom": "C6",
+                "descripcio": "Analitzar processos tecnològics, valorant l'impacte en la societat i l'entorn, tot aplicant criteris de sostenibilitat, per fer un ús ètic i ecosocialment responsable de la tecnologia."
+            }
+        ]
+    },
+    {
+
+        "nom": "Tecnologia i Digitalització",
+        "competencies": [
+            {
+                "codi": "C1",
+                "nom": "C1",
+                "descripcio": "Buscar, analitzar i seleccionar la informació adequada, de manera crítica i segura, tot aplicant processos de recerca, mètodes d'anàlisi de productes i experimentant amb eines de simulació, per delimitar problemes tecnològics i proposar solucions a partir de la informació obtinguda"
+            },
+            {
+                "codi": "C2",
+                "nom": "C2",
+                "descripcio": "Planificar, dissenyar i desenvolupar solucions a problemes tecnològics amb autonomia i actitud creativa, tot aplicant el procés tecnològic, coneixements interdisciplinaris i treballant de manera ordenada i cooperativa, per resoldre problemes o necessitats de manera eficaç, innovadora i sostenible."
+            },
+            {
+                "codi": "C3",
+                "nom": "C3",
+                "descripcio": "Aplicar de manera apropiada diferents tècniques i coneixements interdisciplinaris, tot utilitzant operadors, sistemes tecnològics i eines, seguint la planificació i el disseny sostenible previ per construir solucions tecnològiques que donin resposta a necessitats en diferents contextos."
+            },
+            {
+                "codi": "C4",
+                "nom": "C4",
+                "descripcio": "Descriure, representar i intercanviar idees o solucions a problemes tecnològics o digitals, utilitzant els mitjans de representació, simbologia i vocabulari adequats, així com els instruments i els recursos disponibles, utilitzant les eines digitals per argumentar, comunicar i difondre informació."
+            },
+            {
+                "codi": "C5",
+                "nom": "C5",
+                "descripcio": "Desenvolupar algorismes i aplicacions informàtiques en diferents entorns, tot aplicant els principis del pensament computacional i incorporant les tecnologies emergents, per resoldre problemes concrets, automatitzar processos i aplicar-los en sistemes de control o robòtica."
+            },
+            {
+                "codi": "C6",
+                "nom": "C6",
+                "descripcio": "Utilitzar els fonaments del funcionament dels dispositius i de les aplicacions habituals de l’entorn digital d'aprenentatge, analitzant-ne els components i les funcions i ajustant-los a les necessitats per fer-ne un ús més eficient i segur, per detectar i resoldre problemes tècnics senzills."
+            },
+            {
+                "codi": "C7",
+                "nom": "C7",
+                "descripcio": "Fer ús ètic, sostenible i ecosocialment responsable de la tecnologia, identificant les repercussions i les aportacions, per valorar l’impacte del desenvolupament tecnològic a la societat i a l’entorn."
+            }
+        ]
+    }
+]

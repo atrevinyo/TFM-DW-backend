@@ -1,4 +1,4 @@
-import { Module } from '@nestjs/common';
+import { Module, OnModuleInit } from '@nestjs/common';
 import { MateriaService } from './materia.service';
 import { MateriaController } from './materia.controller';
 import { MongooseModule } from '@nestjs/mongoose';
@@ -13,4 +13,11 @@ import { MateriaSchema } from './entities/materia.entity';
   controllers: [MateriaController],
   providers: [MateriaService],
 })
-export class MateriaModule {}
+
+export class MateriaModule implements OnModuleInit {
+  constructor(private readonly materiaService: MateriaService) {}
+
+  async onModuleInit() {
+    await this.materiaService.seed();
+  }
+}

@@ -27,12 +27,8 @@ export class AssignaturesController {
   @Get(':id')
   @UseGuards( AuthGuard )
   async findOne(@Request() req, @Param('id') id: string) {
-
     const assignatura = await  this.assignaturesService.findOne(req.user._id, id);
-
     const { userId, ...restOfassignatura } = assignatura.toObject();
-
-
     return restOfassignatura;
 
   }
@@ -40,29 +36,13 @@ export class AssignaturesController {
   @UseGuards( AuthGuard )
   @Post()
   async create(@Request() req, @Body() createAssignaturaDto: CreateAssignaturaDto) {
-    console.log("ESTIC AL CONTROLLER ASSIGNATURA: ", req.user);
     // Crea l'assignatura al servei
     return this.assignaturesService.create(req.user._id, createAssignaturaDto);
-
-    // const { userId, ...restOfassignatura } = assignatura.toObject();
-    // console.log("HE CREAT AQUESTA ASSIGANTURA: ", restOfassignatura);
-
-    // return restOfassignatura;
-
-    // Transformar _id a id
-    // return {
-    //   ...assignatura,
-    //   id: assignatura._id,
-    //   _id: undefined, // Elimina el camp _id
-    //   userId: undefined
-    // };
  }
 
  @UseGuards(AuthGuard)
  @Patch(':id')
   async update(@Request() req, @Param('id') id: string, @Body() updateAssignaturaDto: UpdateAssignaturaDto) {
-    console.log("ESTIC ACTUALITZANT UNA ASSIGNATURA: ", updateAssignaturaDto);
-
     return this.assignaturesService.update(req.user._id, id, updateAssignaturaDto);
   }
 
